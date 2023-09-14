@@ -1,3 +1,5 @@
+This is a very simple YouTube to MP3 converter I made because I got tired of the ad spam that you find on online converters.
+
 To run this appliaction, you must:
 1. Install the latest version of Python
 2. Open this folder in the terminal
