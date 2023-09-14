@@ -1,4 +1,4 @@
-This is a very simple YouTube to MP3 converter I made because I got tired of the ad spam that you find on online converters.
+This is a very simple YouTube video to audio converter I made because I got tired of the ad spam that you find on online converters.
 
 To run this appliaction, you must:
 1. Install the latest version of Python
